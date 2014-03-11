@@ -1,4 +1,4 @@
-== RailsGuides Getting Started App
+## RailsGuides Getting Started App
 
 [link](http://guides.rubyonrails.org/getting_started.html)
 
