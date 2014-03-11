@@ -1,4 +1,6 @@
-== RailsGuides [Getting Started App](http://guides.rubyonrails.org/getting_started.html)
+== RailsGuides Getting Started App
+
+[link](http://guides.rubyonrails.org/getting_started.html)
 
 Built for the Odin Project Rails [Study Group Week1 project](https://github.com/afshinator/OdinRailsStudyGroup)
 
