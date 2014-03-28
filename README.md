@@ -4,7 +4,9 @@
 
 Built for the Odin Project Rails [Study Group Week1 project](https://github.com/afshinator/OdinRailsStudyGroup)
 
-Added the **annotate gem**, check out what it does in:
+---
+
+- Added the **annotate gem**, check out what it does in:
 
 * config/routes/config.rb
 
@@ -12,4 +14,7 @@ Added the **annotate gem**, check out what it does in:
 
 * app/models/post.rb
 
+---
+
+- Look at top of  ```app/controllers/posts_controller.rb``` for username/password stuff for adding posts
 
