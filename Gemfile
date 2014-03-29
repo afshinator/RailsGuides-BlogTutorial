@@ -34,6 +34,8 @@ end
 
 
 gem 'annotate', ">=2.6.0"
+gem 'simplecov', '~> 0.7.1'
+gem 'rspec-rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
